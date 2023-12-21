@@ -15,8 +15,6 @@ export default function Home() {
     },
   });
 
-  console.log(session);
-
   /*if(session?user.role !== 'admin' && session?.user.role !== 'manager') 
     return <h1>Access Denied!</h1>;*/
 
